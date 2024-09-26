@@ -4,3 +4,4 @@ and links of each problem and my soltuion here and recommond topics to learn bef
  the 1st qn link is https://leetcode.com/problems/remove-element/description/
  end question---https://leetcode.com/problems/palindrome-number/submissions/1401066249/
  3rd question---https://leetcode.com/problems/path-sum/
+ https://leetcode.com/problems/same-tree/description/
