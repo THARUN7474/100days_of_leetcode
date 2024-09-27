@@ -5,3 +5,4 @@ and links of each problem and my soltuion here and recommond topics to learn bef
  end question---https://leetcode.com/problems/palindrome-number/submissions/1401066249/
  3rd question---https://leetcode.com/problems/path-sum/
  https://leetcode.com/problems/same-tree/description/
+ https://leetcode.com/problems/rotate-array/description/
